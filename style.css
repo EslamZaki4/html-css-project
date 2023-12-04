@@ -1,0 +1,196 @@
+*{
+    box-sizing: border-box;
+   
+    
+}
+
+body{
+    background-color: rgb(252,220,161);
+    border-color: black;
+}
+.nav{
+   
+    overflow: hidden;
+    background-color: aliceblue;
+    padding: 7px ;
+ 
+    top: 0;
+    width: 100%;
+    position: fixed;
+   
+    
+ 
+   
+}
+.nav ul{
+    
+    list-style-type: none;
+    margin-right: 10%;
+   
+    
+
+}
+.nav ul li{
+  
+   margin-right: 2%;
+   font-size: 120%;
+   font-weight: bold;
+   float : right;
+ 
+   
+}
+
+.nav a{
+    text-decoration: none;
+    color:rgb(97,121,74) ;
+    
+  
+}
+
+.content1{
+    
+   text-align: center;
+    padding-right: 400px;
+    padding-left: 400px;
+    overflow: hidden;
+
+}
+
+
+.content1 .c1 .c1-p
+{
+    font-weight:900;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+
+}
+
+.content1 .c1 .c1-p2
+{
+    font-size:30px ;
+    color: aliceblue;
+    padding-right:70px;
+}
+
+button{
+background-color: #aac644;
+color:aliceblue;
+float: left;
+border-color: #aac644;
+font-size: 15px;
+font-weight: 500;
+font-family:''Roboto',sans-serif';
+padding: 15px;
+margin-left: 50%;
+border-radius: 20%;
+
+
+}
+button:hover
+{
+    color: aliceblue;
+background-color:rgb(252,220,161);
+}
+
+
+.content2{
+   
+   
+    padding-right: 400px;
+    padding-left: 400px;
+    overflow: hidden;
+}
+
+
+.content2 .c2 .c2-p
+{
+    font-weight:900;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+
+}
+
+.content2 .c2 .c2-p2
+{
+    font-size:30px ;
+    color: aliceblue;
+    padding-right:70px;
+}
+
+.content3{
+   
+        text-align: center;
+        padding-right: 400px;
+        padding-left: 400px;
+       overflow: hidden;
+}
+
+
+.content3 .c3 .c3-p
+{
+    font-weight:900;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+
+}
+
+.content3 .c3 .c3-p2
+{
+    font-size:30px ;
+    color: aliceblue;
+    padding-right:70px;
+}
+
+
+
+
+
+span{
+    font-size: x-large;
+    color:black;
+    padding: auto;
+    margin-bottom:100px ;
+}
+
+li{
+   font-size:20px; 
+}
+
+.customer{
+    
+    width:33%;
+    
+    float: left;
+    background-color: green;
+    padding: 100px;
+
+}
+.customer:hover
+{
+    background-color:rgb(170,198,68) ;
+}
+
+
+.halfcontent{
+   width: 100%;
+   padding: 100px;
+   height: 100px;
+   border-radius: 50%;
+   border: 10px; ;
+
+}
+li{
+    list-style-type: none;  
+}
+.insurance{
+margin-left: 10% ;
+}
+.parentinsurance{
+margin: 5% ;
+}
